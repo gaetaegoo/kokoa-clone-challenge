@@ -1,4 +1,4 @@
-# Kokoa Clone 2022 Update
+# Kokoa Clone Challenge Final
 
 HTML & CSS Clone coding!
 
