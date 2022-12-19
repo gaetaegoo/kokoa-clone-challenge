@@ -1,0 +1,43 @@
+.more-suggestions {
+    margin: 35px 15px 20px;
+    padding-top: 20px;
+    border-top: var(--main-border);
+}
+
+.more-suggestions__icons {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.more-suggestions__icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.more-suggestions__icon:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.more-suggestions__image {
+    width: 45px;
+    height: 45px;
+    border-radius: 15%;
+    background-color: var(--yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.more-suggestions__image i {
+    font-size: 28px;
+    color: ghostwhite;
+}
+
+.more-suggestions__text {
+    font-size: 13px;
+    opacity: 90%;
+}
